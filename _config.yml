@@ -1,17 +1,17 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               Florent Fettu
+tagline:             'Data Scientist'
 description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
+url:                 https://florentfettu.github.io
+baseurl:             'https://florentfettu.github.io'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Florent Fettu
+  url:               https://www.linkedin.com/in/florentfettu/
+  email:             florent.fettu@hec.ca
 
 # Gems
 plugins:
