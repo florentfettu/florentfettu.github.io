@@ -3,7 +3,7 @@ layout: post
 title: Data Science Portfolio
 ---
 
-This portfolio highlights that I've worked through a variety of case studies and I've gained "industry-like experience". 
+<div style="text-align: justify"> This portfolio highlights that I've worked through a variety of case studies and I've gained "industry-like experience". 
 
 ## Classification Problem 
 
@@ -11,7 +11,7 @@ This portfolio highlights that I've worked through a variety of case studies and
 
 The realization of this project was part of my PhD course 80-629 Machine Learning for Large-Scale Data Analysis and Decision Making under the direction of Laurent Charlin at HEC Montreal. The data for this project was taken from the UCI Machine Learning Repository. The goal was to solve a binary classification task to determine whether a person makes over 50k a year. The core of the project lies in the application of the bayesian optimization  to fine-tune the hyperparameters. To achieve this, we've used the package `scikit-optimize`. 
 
-<a href="https://nbviewer.jupyter.org/github/florentfettu/florentfettu.github.io/blob/master/Notebooks/Projet_final.ipynb" target="_blank">Notebook</a>
+<a href="https://nbviewer.jupyter.org/github/florentfettu/florentfettu.github.io/blob/master/Notebooks/Projet_final.ipynb" target="_blank">Notebook</a> </div>
 
 ## Regression Problems
 
