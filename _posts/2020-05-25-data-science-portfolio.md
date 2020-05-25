@@ -11,7 +11,7 @@ This portfolio highlights that I've worked through a variety of case studies and
 
 The realization of this project was part of my PhD course 80-629 Machine Learning for Large-Scale Data Analysis and Decision Making under the direction of Laurent Charlin at HEC Montreal. The data for this project was taken from the UCI Machine Learning Repository. The goal was to solve a binary classification task to determine whether a person makes over 50k a year. The heart of the project lies in the bayesian optimization application of the models hyperparameters we have implemented.
 
-You can access the notebook [here](https://nbviewer.jupyter.org/github/florentfettu/florentfettu.github.io/blob/master/Notebooks/Projet_final.ipynb)
+You can access the notebook [here](https://nbviewer.jupyter.org/github/florentfettu/florentfettu.github.io/blob/master/Notebooks/Projet_final.ipynb){:target="_blank"}
 
 ## Regression Problems
 
