@@ -190,6 +190,14 @@ a.sidebar-nav-item:focus {
   border-color: transparent;
 }
 
+.sidebar .social-icons a {
+  padding-right: 0.75em;
+}
+
+.sidebar .social-icons a:hover {
+  text-decoration: none;
+}
+
 @media (min-width: 48em) {
   .sidebar-item {
     padding: 1.5rem;
