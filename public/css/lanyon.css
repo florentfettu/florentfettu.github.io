@@ -238,23 +238,6 @@ a.sidebar-nav-item:focus {
   background-color: #555;
 }
 
-/* Style all font awesome icons */
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-}
-
-/* Set a specific color for each brand */
-
-/* Facebook */
-.fa-facebook {
-  background: #3B5998;
-  color: white;
-}
-
 .sidebar-toggle:active:before,
 #sidebar-checkbox:focus ~ .sidebar-toggle::before,
 #sidebar-checkbox:checked ~ .sidebar-toggle::before {
