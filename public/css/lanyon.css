@@ -359,6 +359,9 @@ a.sidebar-nav-item:focus {
   color: inherit;
 }
 
+.justify {
+	display: block;
+}
 
 /*
  * Pagination
