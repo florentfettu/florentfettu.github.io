@@ -3,35 +3,32 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+My name is Julien and I am a Data Scientist. 
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+<br />
+<br />
+I transitioned from online marketing analytics to data science in 2019. I am a self-taught practionner currently studying full time and building projects.
+<br />
+<br />
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+I am passionate about deep learning with a focus on computer vision and software engineering. I created my own curriculum (linked below) from top online courses and resources. 
+<br />
+<br />
+I decided to create this website to have somewhere to write about my projects and ideas.
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<br />
+<br />
+I have a passion for traveling, <a href="https://www.julienbeaulieu.com">taking pictures</a>, chess, and food.  
+
+<br />
+<br />
+
+Add me on <a href="https://www.linkedin.com/in/julienbeaulieu/">LinkedIn</a> if you're interested to chat. 
+
+<br />
+<br />
+
+Thanks for reading!
+
+<br />
+<br />
