@@ -35,7 +35,7 @@ The realization of this project was part of my master course 60-607 Algorithms f
 
 ## DataCamp Projects
 
-Here is a summary of the projects that I've done throughout my journey in the Data Scientist with Python Career Track on DataCamp. 
+Here is a summary of the projects that I've done throughout my journey in the <a href="https://www.datacamp.com/tracks/data-scientist-with-python" target="_blank">Data Scientist with Python Career Track</a> on DataCamp. 
 
 | Project | Description |
 | ------------- | ------------- |
