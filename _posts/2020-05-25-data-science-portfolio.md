@@ -32,3 +32,15 @@ The realization of this project was part of my master course 60-607 Algorithms f
 ### Kaggle Competition – NLP with Disaster Tweets (10 000$ Prize Money)
 
 ## Web Scraping
+
+## DataCamp Projects
+
+Here is a summary of the projects that I've done throughout my journey in the Data Scientist with Python Career Track on DataCamp. 
+
+| Project | Description |
+| ------------- | ------------- |
+| `Introduction to DataCamp Projects` | Gentle introduction to DataCamp projects  |
+| `Exploring the Evolution of Linux`  | Development discovery of the Linux operating system by exploring its Git repository history |
+| `Exploring the Bitcoin Cryptocurrency Market` | Market capitalization exploration of Bitcoin and other cryptocurrencies |
+| `Exploring 67 years of LEGO` | Database exploration of every LEGO set ever built |
+| `Dr. Semmelweis and the Discovery of Handwashing` | Data analysis behind one of the most important discoveries of modern medicine: Handwashing |
