@@ -13,8 +13,6 @@ The realization of this project was part of my PhD course 80-629 Machine Learnin
 
 <a href="https://nbviewer.jupyter.org/github/florentfettu/florentfettu.github.io/blob/master/Notebooks/Projet_final.ipynb" target="_blank">Notebook</a>
 
-<a href="https://florentfettu.github.io/Files/poster_final.pdf" target="_blank">Poster in french</a>
-
 ## Regression Problems
 
 ## Computer Vision
