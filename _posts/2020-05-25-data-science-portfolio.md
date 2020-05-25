@@ -18,7 +18,8 @@ The realization of this project was part of my PhD course 80-629 Machine Learnin
 
 The realization of this project was part of my master course 60-607 Algorithms for Optimization and Big Data Analysis under the direction of Gilles Caporossi at HEC Montreal. The aim of this project was to develop from scratch an algorithm in python without using any third party package, or as little as possible. We decided to build our own binary tree classifier. Our algorithm was less efficient than sklearn's decision tree classifier to predict 1 million observations but we managed to get better accuracy on the Iris dataset.
 
-<a href="https://florentfettu.github.io/Notebooks/arbre_decision_clean.html" target="_blank">Notebook</a> 
+<a href="https://nbviewer.jupyter.org/github/florentfettu/florentfettu.github.io/blob/master/Notebooks/arbre_decision_clean.ipynb" target="_blank">Notebook</a> 
+
 
 ## Regression Problems
 
