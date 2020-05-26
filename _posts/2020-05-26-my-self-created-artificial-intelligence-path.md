@@ -37,4 +37,4 @@ Nowadays, thanks to various frameworks and libraries, much of the math work is d
 * ✅ <a href="https://www.khanacademy.org/math/statistics-probability" target="_blank"> Statistics and probability </a> 
 * ✳️ <a href="https://www.coursera.org/specializations/mathematics-machine-learning" target="_blank"> Mathematics for Machine Learning Specialization </a> (Source: Coursera)
 * <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw" target="_blank">3Blue1Brown YouTube Channel </a>
-* <a href="https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw" target="_blank">StatQuest with Josh Starmer </a>
+* <a href="https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw" target="_blank">StatQuest with Josh Starmer YouTube Channel </a>
