@@ -31,5 +31,5 @@ Basic programming knowledge is essential to succeed in data science. Since I was
 
 ## Mathematics, Statistics and Probabilities
 
-Nowadays, thanks to various frameworks and libraries, much of the math work is done behind the scenes. However, having a general understanding of the math that goes into these technologies helped me immensely to fully understand lots of underlying concepts.
+Nowadays, thanks to various frameworks and libraries, much of the math work is done behind the scenes. However, having an intuitive understanding of the math helped me immensely with lots of underlying concepts. This prerequisite mathematical knowledge is required if you want to take more advanced courses.
 
