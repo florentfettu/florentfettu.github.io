@@ -7,7 +7,7 @@ title: My Self-Created Artificial Intelligence Path
 
 * [Summary](#summary)
 * [Python Programming Fundamentals](#python-programming)
-* Mathematics, Statistics and Probabilities
+* [Mathematics, Statistics and Probabilities](#mathematics-statistics-and-probabilites)
 * Best MOOCs to Break Into AI
 * Books
 * Extras
@@ -28,5 +28,7 @@ Basic programming knowledge is essential to succeed in data science. Since I was
 * ✳️ <a href="https://www.udemy.com/course/learning-to-learn-efficient-learning-zero-to-mastery/" target="_blank">Learning to Learn [Efficient Learning]: Zero to Mastery</a> (Source: Udemy)
 * ✅ <a href="https://www.datacamp.com/tracks/python-programming" target="_blank">Python Pragramming Skill Track</a> (Source: DataCamp)
 * ✳️ <a href="https://www.udemy.com/course/complete-python-bootcamp/" target="_blank"> Complete Python Bootcamp: Go from zero to hero in Python 3 </a> (Source: Udemy)
+
+## Mathematics, Statistics and Probabilities
 
 
