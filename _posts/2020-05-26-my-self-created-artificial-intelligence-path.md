@@ -8,7 +8,7 @@ title: My Self-Created Artificial Intelligence Path
 * [Summary](#summary)
 * [Python Programming Fundamentals](#python-programming-fundamentals)
 * [Mathematics, Statistics and Probabilities](#mathematics-statistics-and-probabilities)
-* Best MOOCs to Break Into AI
+* [Best MOOCs to Break Into AI](#best-moocs-to-break-into-ai)
 * Books
 * Extras
 
@@ -38,3 +38,7 @@ Nowadays, thanks to various frameworks and libraries, much of the math work is d
 * ✳️ <a href="https://www.coursera.org/specializations/mathematics-machine-learning" target="_blank"> Mathematics for Machine Learning Specialization </a> (Source: Coursera)
 * <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw" target="_blank">3Blue1Brown YouTube Channel </a>
 * <a href="https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw" target="_blank">StatQuest with Josh Starmer YouTube Channel </a>
+
+## Best MOOCs to Break Into AI
+
+
