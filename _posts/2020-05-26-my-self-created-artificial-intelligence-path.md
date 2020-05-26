@@ -19,7 +19,7 @@ The path of learning about Artificial Intelligence is often overwhelming with co
 ## Key
 * ✅ = course fully completed
 * ✳️ = course partially completed or in progress
-* No symbols for books
+* No symbols for books and YouTube Channel
 
 ## Python Programming
 
