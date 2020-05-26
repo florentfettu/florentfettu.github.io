@@ -19,8 +19,13 @@ The realization of this project was part of my master course 60-607 Algorithms f
 
 <a href="https://nbviewer.jupyter.org/github/florentfettu/florentfettu.github.io/blob/master/Notebooks/arbre_decision_clean.ipynb" target="_blank">Notebook</a> 
 
-
 ## Regression Problems
+
+### Health Care Cost Forecast by using Linear Regression
+
+The realization of this project was part of my master course 60-619 Analysis and Statistical Inference under the direction of Ferdaous Somrani at HEC Montreal. It should be mentioned that it was originally made in SAS but I transcribed it in Python. The data for this project was taken from <a href="https://www.kaggle.com/mirichoi0218/insurance" target="_blank">Kaggle</a>. The goal of our analysis is to assess the impact of the body mass index and being a smoker (or not) on the costs of health insurance in the United States, taking into account socio-demographic variables.
+
+<a href="https://nbviewer.jupyter.org/github/florentfettu/florentfettu.github.io/blob/master/Notebooks/Inference_project.ipynb" target="_blank">Notebook</a>
 
 ## Computer Vision
 
@@ -28,7 +33,7 @@ The realization of this project was part of my master course 60-607 Algorithms f
 
 ### Building a Fake News Classifier
 
-### Kaggle Competition – NLP with Disaster Tweets (10 000$ Prize Money)
+## Kaggle Competitions
 
 ## Web Scraping
 
