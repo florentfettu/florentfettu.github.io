@@ -34,7 +34,7 @@ Basic programming knowledge is essential to succeed in data science. Since I was
 Nowadays, thanks to various frameworks and libraries, much of the math work is done behind the scenes. However, having an intuitive understanding of the math helped me immensely with lots of underlying concepts. Due to my background in economics, I had already some mathematical prerequisite.
 
 * ✅ <a href="https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices" target="_blank"> Khan Academy Introduction to Matrices</a>
-* ✅ <a href="https://www.khanacademy.org/math/statistics-probability" target="_blank"> Statistics and probability </a> 
+* ✅ <a href="https://www.khanacademy.org/math/statistics-probability" target="_blank"> Khan Academy Statistics and probability </a> 
 * ✳️ <a href="https://www.coursera.org/specializations/mathematics-machine-learning" target="_blank"> Mathematics for Machine Learning Specialization </a> (Source: Coursera)
 * <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw" target="_blank">3Blue1Brown YouTube Channel </a>
 * <a href="https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw" target="_blank">StatQuest with Josh Starmer YouTube Channel </a>
