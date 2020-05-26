@@ -7,7 +7,7 @@ title: My Self-Created Artificial Intelligence Path
 
 * [Summary](#summary)
 * [Python Programming Fundamentals](#python-programming-fundamentals)
-* [Mathematics, Statistics and Probabilities](#mathematics-statistics-and-probabilites)
+* [Mathematics, Statistics and Probabilities](#mathematics,-statistics-and-probabilites)
 * Best MOOCs to Break Into AI
 * Books
 * Extras
