@@ -43,7 +43,7 @@ Nowadays, thanks to various frameworks and libraries, much of the math work is d
 
 ## Best MOOCs to Break Into AI
 
-Everyone who gets going in Machine Learning and Deep Learning gets overwhelmed by the plethora of MOOCs available. I've spent a lot of time looking for the best AI courses. From my searches, these are packed with cutting-edge knowledge taught by the best practitioners in the field. Indeed, if you combine the theoretical teaching style of Andrew Ng and the top-down approach of Jeremy Howard, you definitely have best of both worlds. 
+Everyone who gets going in Machine Learning and Deep Learning gets overwhelmed by the plethora of MOOCs available online. I've spent a lot of time looking for the best AI courses. From my searches, these are packed with cutting-edge knowledge taught by the best practitioners in the field. Indeed, if you combine the theoretical teaching style of Andrew Ng and the top-down approach of Jeremy Howard, you definitely have best of both worlds. 
 
 * ✳️ <a href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/" target="_blank"> Python for Data Science and Machine Learning Bootcamp </a> (Source: Udemy)
 * ✳️ <a href="https://www.coursera.org/learn/machine-learning" target="_blank"> Machine Learning by Stanford University </a> (Source: Coursera)
