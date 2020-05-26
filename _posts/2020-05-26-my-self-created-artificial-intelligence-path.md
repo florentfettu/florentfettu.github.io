@@ -5,7 +5,7 @@ title: My Self-Created Artificial Intelligence Path
 
 ## Contents
 
-* [Summary](##summary)
+* [Summary](#summary)
 * <a href="#Python Programming">Python Programming</a>
 * Mathematics, Statistics and Probabilities
 * Best MOOCs to Break Into AI
