@@ -25,7 +25,7 @@ The realization of this project was part of my master course 60-607 Algorithms f
 
 ### Health Care Cost Forecast by using Linear Regression
 
-The realization of this project was part of my master course 60-619 Analysis and Statistical Inference under the direction of Ferdaous Somrani at HEC Montreal. It should be mentioned that it was originally made in SAS but I transcribed it in Python. The data for this project was taken from <a href="https://www.kaggle.com/mirichoi0218/insurance" target="_blank">Kaggle</a>. The goal of our analysis is to assess the impact of the body mass index and being a smoker (or not) on the costs of health insurance in the United States, taking into account socio-demographic variables.
+The realization of this project was part of my master course 60-619 Analysis and Statistical Inference under the direction of Ferdaous Somrani at HEC Montreal. It should be mentioned that it was originally made in SAS but I transcribed it in Python. The data for this project was taken from <a href="https://www.kaggle.com/mirichoi0218/insurance" target="_blank">Kaggle</a>. The goal of our analysis was to assess the impact of the body mass index and being a smoker (or not) on the costs of health insurance in the United States, taking into account socio-demographic variables.
 
 <a href="https://nbviewer.jupyter.org/github/florentfettu/florentfettu.github.io/blob/master/Notebooks/Inference_project.ipynb" target="_blank">Notebook</a> &nbsp;
 <a href="https://github.com/florentfettu/Statistical-Inference-Analysis-Insurance" target="_blank">GitHub</a>
