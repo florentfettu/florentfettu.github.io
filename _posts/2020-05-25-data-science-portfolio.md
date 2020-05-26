@@ -43,7 +43,7 @@ The realization of this project was part of my master course 60-619 Analysis and
 
 ## DataCamp Projects
 
-Here is a summary of the projects that I've done throughout my journey in the <a href="https://www.datacamp.com/tracks/data-scientist-with-python" target="_blank">Data Scientist with Python Career Track</a> on DataCamp. The GithHub repository containing these projects is available <a href="https://github.com/florentfettu/DataCamp-Projects">here</a>. 
+Here is a summary of the projects that I've done throughout my journey in the <a href="https://www.datacamp.com/tracks/data-scientist-with-python" target="_blank">Data Scientist with Python Career Track</a> on DataCamp. The GithHub repository containing these projects is available <a href="https://github.com/florentfettu/DataCamp-Projects" target="_blank">here</a>. 
 
 | Project | Description |
 | ------------- | ------------- |
