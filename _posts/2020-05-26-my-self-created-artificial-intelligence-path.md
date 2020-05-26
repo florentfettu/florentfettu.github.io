@@ -25,7 +25,7 @@ The path of learning about Artificial Intelligence is often overwhelming with co
 
 Basic programming knowledge is essential to succeed into data science. Since I was going to spend a lot of time learning new things, I also took a course to become an efficient learner.
 
-* ✳️ [Learning to Learn [Efficient Learning]: Zero to Mastery](https://www.udemy.com/course/learning-to-learn-efficient-learning-zero-to-mastery/)
-* ✅ [Python Pragramming Skill Track](https://www.datacamp.com/tracks/python-programming)
+* ✳️ [Learning to Learn [Efficient Learning]: Zero to Mastery](https://www.udemy.com/course/learning-to-learn-efficient-learning-zero-to-mastery/) (Source: Udemy)
+* ✅ [Python Pragramming Skill Track](https://www.datacamp.com/tracks/python-programming) (Source: DataCamp)
 
 
