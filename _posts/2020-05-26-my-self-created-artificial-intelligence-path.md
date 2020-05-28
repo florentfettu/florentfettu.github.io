@@ -9,7 +9,7 @@ title: My Self-Created Artificial Intelligence Path
 * [Python Programming Fundamentals](#python-programming-fundamentals)
 * [Mathematics, Statistics and Probabilities](#mathematics-statistics-and-probabilities)
 * [Best MOOCs to Break Into AI](#best-moocs-to-break-into-ai)
-* Books
+* [Books](#books)
 * Extras
 
 ## Summary
@@ -53,3 +53,11 @@ Everyone who gets going in Machine Learning and Deep Learning gets overwhelmed b
 * ❎ <a href="https://course.fast.ai" target="_blank"> Practical Deep Learning for Coders </a> (Source: Fast.ai)
 * ❎ <a href="https://course.fast.ai/part2" target="_blank"> Part 2: Deep Learning from the Foundations </a> (Source: Fast.ai)
 
+## Books
+
+Sometimes a more traditional route is needed rather than always being in front of a screen. These books are incredible resources when one start out. 
+
+* <a href="http://themlbook.com" target="_blank"> The Hundred-Page Machine Learning Book </a> by Andriy Burkov
+* <a href="https://www.deeplearningbook.org" target="_blank"> Deep Learning </a> by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+* <a href="http://shop.oreilly.com/product/0636920032519.do" target="_blank"> Fluent Python </a> by Luciano Ramalho
+* <a href="https://www.oreilly.com/library/view/deep-learning-for/9781492045519/" target="_blank"> Deep Learning for Coders with fastai and PyTorch </a> by Jeremy Howard, Sylvain Gugger
