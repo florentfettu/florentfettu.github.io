@@ -61,3 +61,4 @@ Sometimes a more traditional route is needed rather than always being in front o
 * <a href="https://www.deeplearningbook.org" target="_blank"> Deep Learning </a> by Ian Goodfellow, Yoshua Bengio and Aaron Courville
 * <a href="http://shop.oreilly.com/product/0636920032519.do" target="_blank"> Fluent Python </a> by Luciano Ramalho
 * <a href="https://www.oreilly.com/library/view/deep-learning-for/9781492045519/" target="_blank"> Deep Learning for Coders with fastai and PyTorch </a> by Jeremy Howard, Sylvain Gugger
+* <a href="http://aima.cs.berkeley.edu" target="_blank"> Artificial Intelligence: A Modern Approach </a> by Stuart Russell and Peter Norvig
