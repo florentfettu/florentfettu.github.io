@@ -3,7 +3,7 @@ layout: post
 title: My Data Science Portfolio
 ---
 
-This portfolio highlights that I've worked through a variety of case studies and I've gained "industry-like experience".
+This portfolio highlights that I’ve worked accross a wide range of data science case studies and I’ve gained “industry-like experience”.
 
 ## Classification Problems
 
