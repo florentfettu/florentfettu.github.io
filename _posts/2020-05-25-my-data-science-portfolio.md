@@ -37,6 +37,11 @@ The realization of this project was part of my master course 60-619 Analysis and
 
 ### Building a Fake News Classifier
 
+The realization of this project was part of my master course 60-621 Text Mining and Social Networks under the direction of Gilles Caporossi. Our task was to classify whether a news was fake or real. The emphasis has been placed on the application of traditional techniques as Bag-of-words, Stemming or TF-IDF instead of state-of-the-art algorithm for sequential data. We’ve also implemented topic modelling and cosine similarity to better understand our results.
+
+<a href="https://nbviewer.jupyter.org/github/florentfettu/Building-A-Fake-News-Classifier/blob/master/code_final.ipynb" target="_blank">Notebook</a> &nbsp;
+<a href="https://github.com/florentfettu/Building-A-Fake-News-Classifier" target="_blank">GitHub</a>
+
 ## Kaggle Competitions
 
 ## Web Scraping
