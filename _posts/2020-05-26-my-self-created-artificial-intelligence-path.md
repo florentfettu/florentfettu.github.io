@@ -10,7 +10,7 @@ title: My Self-Created Artificial Intelligence Path
 * [Mathematics, Statistics and Probabilities](#mathematics-statistics-and-probabilities)
 * [Best MOOCs to Break Into AI](#best-moocs-to-break-into-ai)
 * [Books](#books)
-* Extras
+* [Extras](#extras)
 
 ## Summary
 
@@ -62,3 +62,9 @@ Sometimes a more traditional route is needed rather than always being in front o
 * <a href="http://shop.oreilly.com/product/0636920032519.do" target="_blank"> Fluent Python </a> by Luciano Ramalho
 * <a href="https://www.oreilly.com/library/view/deep-learning-for/9781492045519/" target="_blank"> Deep Learning for Coders with fastai and PyTorch </a> by Jeremy Howard, Sylvain Gugger
 * <a href="http://aima.cs.berkeley.edu" target="_blank"> Artificial Intelligence: A Modern Approach </a> by Stuart Russell and Peter Norvig
+
+## Extras 
+
+These resources below are for those who want to go further ans learn more about AI. 
+
+* <a href="http://cs229.stanford.edu/" target="_blank"> CS229: Machine Learning </a>, <a href="https://cs230.stanford.edu/" target="_blank"> CS230 Deep Learning </a>, 
