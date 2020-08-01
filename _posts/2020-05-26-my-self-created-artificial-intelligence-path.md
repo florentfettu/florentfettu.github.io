@@ -68,3 +68,9 @@ Sometimes a more traditional route is needed rather than always being in front o
 These resources below are for those who want to go further and learn more about AI. 
 
 * <a href="http://cs229.stanford.edu/" target="_blank"> CS229: Machine Learning</a>,<a href="https://cs230.stanford.edu/" target="_blank"> CS230: Deep Learning</a>,<a href="http://web.stanford.edu/class/cs224n/" target="_blank"> CS224n: Natural Language Processing with Deep Learning</a>,<a href="http://cs231n.stanford.edu/" target="_blank"> CS231n: Convolutional Neural Networks for Visual Recognition</a>,<a href="http://web.stanford.edu/class/cs234/index.html" target="_blank"> CS234: Reinforcement Learning </a> (Source: Stanford University)
+
+* <a href="https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g" target="_blank"> Corey Schafer Youtube Channel </a>
+
+* <a href="https://www.youtube.com/user/sentdex" target="_blank"> Sentdex Youtube Channel </a>
+
+* <a href="https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A" target="_blank"> Siraj Raval Youtube Channel </a>
