@@ -51,7 +51,7 @@ Everyone who gets going in Machine Learning and Deep Learning gets overwhelmed b
 * ✳️ <a href="https://www.coursera.org/learn/machine-learning" target="_blank"> Machine Learning by Stanford University </a> (Source: Coursera)
 * ✳️ <a href="http://course18.fast.ai/ml" target="_blank"> Introduction to Machine Learning for Coders </a> (Source: Fast.ai)
 * ✅ <a href="https://www.coursera.org/specializations/deep-learning" target="_blank"> Deep Learning Specialization </a> (Source: Coursera)
-* ✳️ <a href="https://www.udemy.com/course/pytorch-for-deep-learning-with-python-bootcamp/" target="_blank"> PyTorch for Deep Learning with Python Bootcamp </a> (Source: Udemy)
+* ✅ <a href="https://www.udemy.com/course/pytorch-for-deep-learning-with-python-bootcamp/" target="_blank"> PyTorch for Deep Learning with Python Bootcamp </a> (Source: Udemy)
 * ❎ <a href="https://course.fast.ai" target="_blank"> Practical Deep Learning for Coders </a> (Source: Fast.ai)
 * ❎ <a href="https://course.fast.ai/part2" target="_blank"> Part 2: Deep Learning from the Foundations </a> (Source: Fast.ai)
 
